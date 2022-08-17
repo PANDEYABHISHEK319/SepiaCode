@@ -1,4 +1,4 @@
-package com.test.sepiacosding.fragment
+package com.test.sepiacosding.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

@@ -6,7 +6,7 @@
     app:startDestination="@id/fragmen_list">
     <fragment
         android:id="@+id/fragmen_list"
-        android:name="com.test.sepiacosding.fragment.ListFragment"
+        android:name="com.test.sepiacosding.view.ListFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_list" />
 
